@@ -22,3 +22,5 @@ Mina ML övningar
 * Google News Initiative Training Center: [Introduction to Machine Learning](https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning)
 ## Misc ##
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
+* |Made With ML](https://madewithml.com/)
+* [deepai.org](https://deepai.org/)
