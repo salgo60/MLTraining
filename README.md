@@ -20,10 +20,11 @@ Mina ML övningar
   * [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics)
   * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * Google News Initiative Training Center: [Introduction to Machine Learning](https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning)
+* [Elements of AI](https://www.elementsofai.se/)
 ## Misc ##
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
 * [Made With ML](https://madewithml.com/)
 * [deepai.org](https://deepai.org/)
 ### Poddar ###
-* [ai-podden.se/](https://ai-podden.se/)
+* [ai-podden.se](https://ai-podden.se/)
 * [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
