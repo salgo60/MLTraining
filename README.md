@@ -24,4 +24,6 @@ Mina ML övningar
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
 * [Made With ML](https://madewithml.com/)
 * [deepai.org](https://deepai.org/)
+### Poddar ###
 * [ai-podden.se/](https://ai-podden.se/)
+* [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
