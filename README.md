@@ -19,6 +19,6 @@ Mina ML övningar
 * GITHUB 
   * [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics)
   * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
+* Google News Initiative Training Center: [Introduction to Machine Learning](https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning)
 ## Misc ##
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
