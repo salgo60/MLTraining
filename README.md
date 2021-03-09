@@ -6,7 +6,7 @@ Mina ML övningar
 * "[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.se/gp/product/1492032646)"
 * "[The Hundred-Page Machine Learning Book Inbunden – Illustrerad, 11](https://www.amazon.se/gp/product/1999579518)"
 * [Hands-on Machine Learning with Scikit-Learn and TensorFlow:](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) [GITHUB](https://github.com/ageron/handson-ml)
-* [Introduction to Data Science](https://rafalab.github.io/dsbook/)
+* [Introduction to Data Science](https://rafalab.github.io/dsbook/) / [GITHUB](http://rafalab.github.io/pages/teaching.html)
 
 
 ## Kurser ##
