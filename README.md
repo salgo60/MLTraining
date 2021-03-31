@@ -26,6 +26,17 @@ Mina ML övningar
 * [Made With ML](https://madewithml.com/)
 * [deepai.org](https://deepai.org/)
 * [50 Machine Learning Algorithms Explained using Python](https://medium.com/coders-camp/50-machine-learning-algorithms-explained-using-python-8e79b1d89c98)
+* [How to Start with Machine Learning for Free](https://towardsdatascience.com/how-to-start-with-machine-learning-for-free-483c1974c4b6) - [Roman Orac](https://twitter.com/romanorac)
+   * Example from Kaggle [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) 
+   * Programming eBooks
+      * [Python Notes for Professionals](https://goalkicker.com/PythonBook/)
+      * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas/src/master/)
+   * Machine Learning eBooks
+      * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+      * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+   * Free Online Courses
+      * [Machine Learning Course](https://www.edx.org/course/machine-learning)
+      * [Artificial Intelligence Course](https://www.edx.org/course/artificial-intelligence-ai)
 ### Poddar ###
 * [ai-podden.se](https://ai-podden.se/)
 * [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
