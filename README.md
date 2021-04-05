@@ -2,11 +2,12 @@
 Mina ML övningar 
 
 ## Böcker ##
-* "[Deep Learning](https://www.amazon.se/gp/product/0262035618/ref=ppx_yo_dt_b_asin_title_o01_s00)"
+* [Introduction to Data Science](https://rafalab.github.io/dsbook/) / [GITHUB](http://rafalab.github.io/pages/teaching.html)
 * "[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.se/gp/product/1492032646)"
 * "[The Hundred-Page Machine Learning Book Inbunden – Illustrerad, 11](https://www.amazon.se/gp/product/1999579518)"
 * [Hands-on Machine Learning with Scikit-Learn and TensorFlow:](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) [GITHUB](https://github.com/ageron/handson-ml)
-* [Introduction to Data Science](https://rafalab.github.io/dsbook/) / [GITHUB](http://rafalab.github.io/pages/teaching.html)
+* "[Deep Learning](https://www.amazon.se/gp/product/0262035618/ref=ppx_yo_dt_b_asin_title_o01_s00)"
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 
 
 ## Kurser ##
@@ -37,6 +38,9 @@ Mina ML övningar
    * Free Online Courses
       * [Machine Learning Course](https://www.edx.org/course/machine-learning)
       * [Artificial Intelligence Course](https://www.edx.org/course/artificial-intelligence-ai)
+ * [Box-Cox Transformation: Explained](https://towardsdatascience.com/box-cox-transformation-explained-51d745e34203)
+   * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
 ### Poddar ###
 * [ai-podden.se](https://ai-podden.se/)
 * [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
