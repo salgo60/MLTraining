@@ -11,7 +11,7 @@ Mina ML övningar
 
 ## Kurser ##
 * [Halmstad HH-23309](https://www.hh.se/utbildning/kurser/lararledd-machine-learning.html) - Lärarledd Machine Learning 7,5hp
-  * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundredpage machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
+  * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundred-page machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
 * [HarvardX PH125.8x](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/d5e239be9c1349edb7a56e93404cc703/) Data Science: Machine Learning 
 
 ### Tutorials ###
