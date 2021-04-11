@@ -9,6 +9,7 @@ Mina ML övningar
 * "[Deep Learning](https://www.amazon.se/gp/product/0262035618/ref=ppx_yo_dt_b_asin_title_o01_s00)"
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - A Guide for Making Black Box Models Explainable.
+* [Dive into Deep Learning](https://d2l.ai/)
 
 ## Kurser ##
 * [Halmstad HH-23309](https://www.hh.se/utbildning/kurser/lararledd-machine-learning.html) - Lärarledd Machine Learning 7,5hp
