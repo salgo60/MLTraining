@@ -15,7 +15,7 @@ Mina ML övningar
   * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundred-page machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
 * [HarvardX PH125.8x](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/d5e239be9c1349edb7a56e93404cc703/) Data Science: Machine Learning 
 * [Fundamentals of TinyML](https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0)
-
+* developers.google [machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 
 ### Tutorials ###
 * [scikit getting started](https://scikit-learn.org/stable/getting_started.html) [GITHUB](https://github.com/scikit-learn/scikit-learn)
@@ -24,6 +24,7 @@ Mina ML övningar
   * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * Google News Initiative Training Center: [Introduction to Machine Learning](https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning)
 * [Elements of AI](https://www.elementsofai.se/)
+* [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
 ## Misc ##
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
 * [Made With ML](https://madewithml.com/)
