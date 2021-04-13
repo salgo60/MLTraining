@@ -1,7 +1,7 @@
 # MLTraining
-Mina ML övningar 
+My ML training 
 
-## Böcker ##
+## Books ##
 * [Introduction to Data Science](https://rafalab.github.io/dsbook/) / [GITHUB](http://rafalab.github.io/pages/teaching.html)
 * "[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.se/gp/product/1492032646)"
 * "[The Hundred-Page Machine Learning Book Inbunden – Illustrerad, 11](https://www.amazon.se/gp/product/1999579518)"
@@ -11,7 +11,7 @@ Mina ML övningar
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - A Guide for Making Black Box Models Explainable.
 * [Dive into Deep Learning](https://d2l.ai/)
 
-## Kurser ##
+## Courses ##
 * [Halmstad HH-23309](https://www.hh.se/utbildning/kurser/lararledd-machine-learning.html) - Lärarledd Machine Learning 7,5hp
   * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundred-page machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
 * [HarvardX PH125.8x](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/d5e239be9c1349edb7a56e93404cc703/) Data Science: Machine Learning 
