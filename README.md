@@ -28,6 +28,9 @@ My ML training
 * [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
 ### Youtube ###
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+## Datasets ##
+* [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+* [Machine Learning Glossary - datasets](https://ml-cheatsheet.readthedocs.io/en/latest/datasets.html)
 ## Misc ##
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
 * [Made With ML](https://madewithml.com/)
