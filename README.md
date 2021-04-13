@@ -49,7 +49,7 @@ My ML training
       * [Artificial Intelligence Course](https://www.edx.org/course/artificial-intelligence-ai)
  * [Box-Cox Transformation: Explained](https://towardsdatascience.com/box-cox-transformation-explained-51d745e34203)
    * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
-
+* [All Machine Learning Algorithms & Models Explained](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
 ### Poddar ###
 * [ai-podden.se](https://ai-podden.se/)
 * [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
