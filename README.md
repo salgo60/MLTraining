@@ -17,6 +17,8 @@ My ML training
 * [HarvardX PH125.8x](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/d5e239be9c1349edb7a56e93404cc703/) Data Science: Machine Learning 
 * [Fundamentals of TinyML](https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0)
 * developers.google [machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
+* [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1)
 
 ### Tutorials ###
 * [scikit getting started](https://scikit-learn.org/stable/getting_started.html) [GITHUB](https://github.com/scikit-learn/scikit-learn)
