@@ -51,6 +51,7 @@ My ML training
    * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [All Machine Learning Algorithms & Models Explained](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
+* [CS 520 Knowledge Graphs](https://web.stanford.edu/class/cs520/)
 ### Poddar ###
 * [ai-podden.se](https://ai-podden.se/)
 * [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
