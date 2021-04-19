@@ -28,9 +28,9 @@ My ML training
 * Google News Initiative Training Center: [Introduction to Machine Learning](https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning)
 * [Elements of AI](https://www.elementsofai.se/)
 * [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
-* [Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU)
 ### Youtube ###
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+* [Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU)
 ## Datasets ##
 * [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 * [Machine Learning Glossary - datasets](https://ml-cheatsheet.readthedocs.io/en/latest/datasets.html)
@@ -56,6 +56,8 @@ My ML training
 * [All Machine Learning Algorithms & Models Explained](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
 * [CS 520 Knowledge Graphs](https://web.stanford.edu/class/cs520/) Data Models, Knowledge Acquisition, Inference and Applications - Department of Computer Science, Stanford University, Spring 2021
+* twitter list - [Machine learning](https://twitter.com/i/topics/898661583827615744
+) 
 
 ### Poddar ###
 * [ai-podden.se](https://ai-podden.se/)
