@@ -33,6 +33,7 @@ My ML training
 ## Datasets ##
 * [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 * [Machine Learning Glossary - datasets](https://ml-cheatsheet.readthedocs.io/en/latest/datasets.html)
+* [deepai.org](https://deepai.org/datasets)
 ## Misc ##
 * GITHUB Topics [machine-learning](https://github.com/topics/machine-learning)
 * [Made With ML](https://madewithml.com/)
