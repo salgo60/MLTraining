@@ -14,6 +14,7 @@ My ML training
 ## Courses ##
 * [Halmstad HH-23309](https://www.hh.se/utbildning/kurser/lararledd-machine-learning.html) - Supervised Machine Learning 7,5hp
   * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundred-page machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
+  * [Introduction - Machine Learning Course video](https://www.youtube.com/watch?v=JEn0ZZwaPqo&list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY&index=1)
 * [HarvardX PH125.8x](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/d5e239be9c1349edb7a56e93404cc703/) Data Science: Machine Learning 
 * [Fundamentals of TinyML](https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0)
 * [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
