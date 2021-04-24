@@ -16,7 +16,10 @@ My ML training
   * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundred-page machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
   * [Introduction - Machine Learning Course video](https://www.youtube.com/watch?v=JEn0ZZwaPqo&list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY&index=1)
 * [HarvardX PH125.8x](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/d5e239be9c1349edb7a56e93404cc703/) Data Science: Machine Learning 
-* [Fundamentals of TinyML](https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0)
+* TinyML
+  * [Fundamentals of TinyML](https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0)
+  * [Applications of TinyML](https://learning.edx.org/course/course-v1:HarvardX+TinyML2+3T2020/home)
+  * [Deploying TinyML](https://www.edx.org/course/deploying-tinyml?index=product&queryID=97b20ac250e54fe7b027aa563fb09d4e&position=3)
 * [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1)
 * developers.google [machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
