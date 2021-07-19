@@ -5,3 +5,12 @@
 
 ## Singular value decomposition
 * wiki [Singular_value_decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
+
+## Neural Networks Demystified 
+
+* [Part 1: Data and Architecture](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+* [Part 2: Forward Propagation](https://www.youtube.com/watch?v=UJwK6jAStmg)
+* [Part 3: Gradient Descent](https://www.youtube.com/watch?v=5u0jaA3qAGk)
+
+* The coding train
+** [10.12: Neural Networks: Feedforward Algorithm Part 1 - The Nature of Code](https://www.youtube.com/watch?v=qWK7yW8oS0I)
