@@ -14,3 +14,5 @@
 
 * The coding train
   * [10.12: Neural Networks: Feedforward Algorithm Part 1 - The Nature of Code](https://www.youtube.com/watch?v=qWK7yW8oS0I)
+  * [10.6: Neural Networks: Matrix Math Part 1 - The Nature of Code](https://www.youtube.com/watch?v=uSzGdfdOoG8)
+  * [10.7: Neural Networks: Matrix Math Part 2 - The Nature of Code](https://www.youtube.com/watch?v=n6q9D2wd1bE)
