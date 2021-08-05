@@ -10,3 +10,4 @@
 also did
 * 
 ### Day 2: Aug 4, 2021
+* python basic
