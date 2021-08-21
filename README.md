@@ -64,6 +64,8 @@ My ML training
 * twitter list - [Machine learning](https://twitter.com/i/topics/898661583827615744
 ) 
 * [www.kaggle.com](https://www.kaggle.com/magnusslg)
+### WEB ###
+* [www.skytowner.com](https://www.skytowner.com/)
 ### Poddar ###
 * [ai-podden.se](https://ai-podden.se/)
 * [AI för CxO:er](https://podcasts.nu/poddar/ai-for-cxo-er-ledare)
