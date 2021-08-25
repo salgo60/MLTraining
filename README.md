@@ -12,6 +12,7 @@ My ML training
 * [Dive into Deep Learning](https://d2l.ai/) 
 * [(Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 * [Machine Learning For Dummies](https://github.com/mr-ubik/machine-learning-for-dummies)
+* An Introduction to Statistical Learning [book](https://www.statlearning.com/) / [video](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
 ## Courses ##
 * [Halmstad HH-23309](https://www.hh.se/utbildning/kurser/lararledd-machine-learning.html) - Supervised Machine Learning 7,5hp
   * [Litteratur](http://utbildning.hh.se/se_proxy/utb_kursplan.asp?kurskod=DT8049&revisionsnr=2,000&format=pdf&lang=SW) "[Andriy Burkov. The hundred-page machine learning book. 2019](http://themlbook.com/wiki/doku.php)"
@@ -38,6 +39,7 @@ My ML training
 ### Youtube ###
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 * [Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU)
+* [AbhishekThakurAbhi](https://www.youtube.com/c/AbhishekThakurAbhi) - Kaagle grandmaster [abhishek](https://www.kaggle.com/abhishek)
 ## Datasets ##
 * [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 * [Machine Learning Glossary - datasets](https://ml-cheatsheet.readthedocs.io/en/latest/datasets.html)
