@@ -27,6 +27,7 @@ My ML training
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1)
 * developers.google [machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 * [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome)
+* [Course on Deep Learning for Computer Vision!](https://arthurdouillard.com/deepcourse/introduction/)
 
 ### Tutorials ###
 * [scikit getting started](https://scikit-learn.org/stable/getting_started.html) [GITHUB](https://github.com/scikit-learn/scikit-learn)
