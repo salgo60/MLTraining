@@ -68,7 +68,8 @@ My ML training
 * [CS 520 Knowledge Graphs](https://web.stanford.edu/class/cs520/) Data Models, Knowledge Acquisition, Inference and Applications - Department of Computer Science, Stanford University, Spring 2021
 * twitter list - [Machine learning](https://twitter.com/i/topics/898661583827615744
 ) 
-* [www.kaggle.com](https://www.kaggle.com/magnusslg)
+* [my www.kaggle.com](https://www.kaggle.com/magnusslg)
+* [freecodecamp Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#claim-cert-block)
 ### WEB ###
 * [www.skytowner.com](https://www.skytowner.com/)
 ### Poddar ###
