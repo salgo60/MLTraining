@@ -70,6 +70,7 @@ My ML training
 ) 
 * [my www.kaggle.com](https://www.kaggle.com/magnusslg)
 * [freecodecamp Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#claim-cert-block)
+* [applied-ml](https://github.com/eugeneyan/applied-ml)
 ### WEB ###
 * [www.skytowner.com](https://www.skytowner.com/)
 ### Poddar ###
